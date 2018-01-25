@@ -1,0 +1,100 @@
+p {
+	color:white;
+}
+
+.contain{
+	display:block;
+	overflow: auto;
+	padding: 1px 1px 1px 1px;
+}
+
+.name{
+	border-style: solid;
+	border-width: 1px;
+	border-color: white;
+	text-align: center;
+	font-size: 25px;
+	padding: 10px 10px 10px 10px;
+	border-radius: 15px 15px 15px 15px
+}
+
+.pics {
+	border:1px solid white;
+	display: block;
+	margin: 0 auto;
+	padding: 10px 10px 10px 10px;
+	border-radius: 5px 5px 5px 5px
+}
+
+img {
+}
+
+.about {
+	border:1px solid white;
+	display:block;
+	font-size: 18px;
+	float:left;
+	width:48%;
+	padding: 5px 5px 5px 5px;
+	border-radius: 10px 10px 10px 10px
+}
+
+.why {
+	border:1px solid white;
+	display:block;
+	font-size: 18px;
+	width:48%;
+	float: right;
+	padding: 5px 5px 5px 5px;
+	border-radius: 10px 10px 10px 10px
+}
+
+.favsub{
+	border:1px dotted white;
+	display:block;
+	width:48%;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px 10px 10px 10px;
+	border-radius: 5px 5px 5px 5px
+}
+
+.favlang{
+	border:1px dotted white;
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	width:48%;
+	padding: 10px 10px 10px 10px;
+	border-radius: 5px 5px 5px 5px
+}
+
+.hobbies{
+	border:1px dotted white;
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	width:48%;
+	padding: 10px 10px 10px 10px;
+	border-radius: 5px 5px 5px 5px
+}
+
+.favfood{
+	border:1px dotted white;
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	width:48%;
+	padding: 10px 10px 10px 10px;
+	border-radius: 5px 5px 5px 5px
+}
+
+.favcolor{
+	border:1px dotted white;
+	margin-left: auto;
+	margin-right: auto;
+	display:block;
+	width:48%;
+	padding: 10px 10px 10px 10px;
+	border-radius: 5px 5px 5px 5px
+}
